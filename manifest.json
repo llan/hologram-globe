@@ -1,6 +1,6 @@
 {
-  "short_name": "Hologram Globe",
-  "name": "Hologram Globe",
+  "short_name": "Hologram - Globe",
+  "name": "A simple map of hologrammers around the globe",
   "icons": [
     {
       "src": "favicon.ico",
